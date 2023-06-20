@@ -1,2 +1,3 @@
 Vocês gostam de pudim?
 Aluno3: Gosto.
+Aluno2: não
